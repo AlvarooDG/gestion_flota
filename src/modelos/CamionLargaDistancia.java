@@ -32,7 +32,7 @@ public class CamionLargaDistancia extends Camion {
 
 	public void setPesoMinimo(double pesoMinimo) {
 		if (pesoMinimo > 0) {
-			this.pesoMinimo = pesoMinimo;
+			this.pesoMinimo = pesoMinimo; 
 		}
 	}
 }
